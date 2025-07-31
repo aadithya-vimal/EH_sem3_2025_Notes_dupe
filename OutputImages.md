@@ -8,3 +8,9 @@
 
 ### QUESTION: How do I see open ports?
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d34778a4-681c-4c95-84ef-17a0d83c797b" />
+
+### QUESTION: How do I find a file named config.txt?
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/16d0a147-d26b-4cc1-9b50-efe1c8a00c81" />
+
+### QUESTION: How do I stop a process with PID 1234?
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1eecc4a2-8320-4c11-ba2e-cc6f8695d872" />
